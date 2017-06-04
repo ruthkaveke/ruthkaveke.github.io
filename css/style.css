@@ -601,13 +601,14 @@ a.totop-link {
     z-index:2;
 }
 .introduction span.title {
-    border-bottom: 1px solid #7a7a7a;
-    border-top: 1px solid #7a7a7a;
-    color: #000;
+    border-bottom: 4px solid #fff;
+    border-top: 4px solid #fff;
+    color: #fff;
     padding: 15px 0;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-size: 13px;
+    font-size: 15px;
+    font-weight: bold;
 }
 /* ==========================================================================
    #About Screen
